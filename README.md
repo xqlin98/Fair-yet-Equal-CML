@@ -1,7 +1,7 @@
 # Fair yet Asymptotically Equal Collaborative Learning [ICML 2023]
 This repository is the official implementation of the following paper accepted by the Fortieth International Conference on Machine Learning (ICML) 2023:
 ```
-Xiaoqiang Lin, Xinyi Xu, See-Kiong Ng, Chuan-Sheng Foo & Bryan Kian Hsiang Low
+Xiaoqiang Lin, Xinyi Xu, See-Kiong Ng, Chuan-Sheng Foo, Bryan Kian Hsiang Low
 
 Fair yet Asymptotically Equal Collaborative Learning
 ```
