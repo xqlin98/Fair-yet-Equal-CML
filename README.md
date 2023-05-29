@@ -1,5 +1,10 @@
 # Fair yet Asymptotically Equal Collaborative Learning [ICML 2023]
-This repo is for our paper: Fair yet Asymptotically Equal Collaborative Learning
+This repository is the official implementation of the following paper accepted by the Fortieth International Conference on Machine Learning (ICML) 2023:
+```
+Xiaoqiang Lin, Xinyi Xu, See-Kiong Ng, Chuan-Sheng Foo & Bryan Kian Hsiang Low
+
+Fair yet Asymptotically Equal Collaborative Learning
+```
 
 ## Environment setup
 We use `conda` to manage our environment. To setup the environment, run the command in the terminal:
